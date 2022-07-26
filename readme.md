@@ -1,4 +1,4 @@
-This code accompanies the paper [Patient Embeddings in Healthcare and Insurance Applications](https://arxiv.org/abs/2107.03913) by Pavel Blinov and Vladimir Kokh.
+This code accompanies the paper <em>Medical Profile Model: Scientific and Practical Applications in Healthcare</em> by Pavel Blinov and Vladimir Kokh.
 
 Some data preprocessing code is from https://github.com/xueping/MusaNet
 
@@ -13,13 +13,6 @@ pip install -r requirements.txt
 
 ### BibTeX reference
 ```
-@misc{blinov2021patient,
-    title={Patient Embeddings in Healthcare and Insurance Applications},
-    author={Pavel Blinov and Vladimir Kokh},
-    year={2021},
-    eprint={2107.03913},
-    archivePrefix={arXiv},
-    primaryClass={cs.CY}
-}
+
 ```
 
