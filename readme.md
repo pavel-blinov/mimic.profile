@@ -1,5 +1,7 @@
 This code accompanies the paper <em>Medical Profile Model: Scientific and Practical Applications in Healthcare</em> by Pavel Blinov and Vladimir Kokh.
 
+![model](./model_arch.png)
+
 Some data preprocessing code is from https://github.com/xueping/MusaNet
 
 ### To run
